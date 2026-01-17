@@ -1,49 +1,70 @@
-# Hi there, I'm Zach 👋
+Hi there, I’m Zach 👋
+🚀 About Me
 
-### 🚀 About Me
+💼 Aspiring Full-Stack Software Engineer (Frontend-focused)
 
-- 💼 Aspiring [Your Role, e.g., Software Developer | Web Developer | Data Analyst]
-- 🌱 Currently learning: [Key skills or technologies, e.g., React, Node.js, Python]
-- 🎯 Goal: Build impactful projects and contribute to open source
-- ⚡ Fun fact: [Something interesting about you]
+🎓 TripleTen Software Engineering Bootcamp graduate-in-progress
 
----
+🧠 Background in teaching, problem-solving, and technical communication
 
-### 🛠️ Tech Stack
+🌱 Currently building with React, Node.js, Express, MongoDB
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+🎯 Goal: Build clean, user-focused applications and transition into a full-time engineering role
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+⚡ Fun fact: I’m a high-school science & social studies teacher who teaches code the same way I teach physics—clear models, real-world examples, and iteration
 
----
+🛠️ Tech Stack
 
-### 📌 Featured Projects
+Languages
 
-🔹 [**Project Name**](https://github.com/username/project) – Short one-liner about what it does.  
-🔹 [**Another Project**](https://github.com/username/project) – Another quick description.
 
----
 
-### 📊 GitHub Stats
 
-![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZachMolzner&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachMolzner&layout=compact)
 
----
 
-### 📫 Connect With Me
+Frameworks & Libraries
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:ZAMolzner@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourprofile)
 
----
 
-⭐️ From [ZachMolzner](https://github.com/ZachMolzner)
+
+
+
+Tools & Platforms
+
+
+
+
+
+
+
+
+📌 Featured Projects
+
+🔹 WTWR – What To Wear Right Now
+Weather-based clothing recommendation app built with React + API integration.
+Features dynamic weather data, conditional rendering, and responsive UI.
+👉 Repo: https://github.com/ZachMolzner/se_project_react
+
+🔹 Spots
+Object-oriented JavaScript application focused on state management, modular design, and DOM manipulation.
+Built using HTML, CSS (BEM), and vanilla JS.
+👉 Repo: https://github.com/ZachMolzner/spots
+
+🔹 Express API Project
+RESTful backend built with Node.js & Express, featuring routes, controllers, middleware, and MongoDB integration.
+Focused on clean architecture and real-world API patterns.
+👉 Repo: https://github.com/ZachMolzner/se_project_express
+
+(More projects coming as I continue building full-stack applications)
+
+📊 GitHub Stats
+
+
+
+
+📫 Connect With Me
+
+
+
+
+⭐️ Thanks for visiting — feel free to explore my projects or reach out!
