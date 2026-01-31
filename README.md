@@ -48,7 +48,7 @@ Features dynamic weather data, conditional rendering, and responsive UI.
 🔹 Spots
 Object-oriented JavaScript application focused on state management, modular design, and DOM manipulation.
 Built using HTML, CSS (BEM), and vanilla JS.
-👉 Repo: https://github.com/ZachMolzner/spots
+👉 Repo: [https://github.com/ZachMolzner/spots](https://github.com/ZachMolzner/se_project_spots)
 
 🔹 Express API Project
 RESTful backend built with Node.js & Express, featuring routes, controllers, middleware, and MongoDB integration.
